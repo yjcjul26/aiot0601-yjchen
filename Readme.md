@@ -1,20 +1,27 @@
 # AIoT Github
+<br>  
+
+##### author: "YJCHEN"
 
 ## Lecture 15: IoT Flask Web (deploy to heroku)
 
-### step 1 : Clone this github
+### step0: Setup Environment
+*github,heroku account setup
+
+### step 1 : Clone this github     
+
+* clone  
+* delete .git  
+* 推送至gitHub
+
+
+
 
 ### step 2 : install some package
 
 
 ```python
-pip insall gunicorn   
-Flask==2.0.1 
-Jinja2==3.0.1 
-psycopg2 
-sklearn 
-pandas  
-numpy 
+pip install gunicorn   Flask==2.0.1 Jinja2==3.0.1 psycopg2 sklearn pandas  numpy 
 ```
 
 ### step 3: add an heroku postgredb
