@@ -35,10 +35,10 @@ pip install gunicorn   Flask==2.0.1 Jinja2==3.0.1 psycopg2 sklearn pandas  numpy
 
 
 ```sql
-myserver ="<fill-in-Heroku-Postgredb-DB-sever>"
-myuser="<fill-in-Heroku-Postgredb-DB-user>"
-mypassword="<fill-in-Heroku-Postgredb-DB-pwd>"
-mydb="<fill-in-Heroku-Postgredb-DB-db>"
+myserver ="ec2-52-72-99-110.compute-1.amazonaws.com"  
+myuser="iqmjrjfmvekuwe"  
+mypassword="896a432e316c729c6a591a6cc7a0d46a3f0be657b2cc01501e6118f75e365cc2"  
+mydb="d7ujfaokgqld81"  
 
 ```
 ### step 5: import postgredb (in db/postgre.db)
