@@ -74,7 +74,7 @@ delete .git and git remote add origin master github.com/xxxxx
 
 ### step 10: Complete
 
-
+   
 
 Sample link 1:
 https://aiot0601-yjchen.herokuapp.com/
@@ -90,4 +90,8 @@ https://aiot0529.herokuapp.com/
 
 ### Result :(remote after AI prediction)   
 
+<<<<<<< HEAD
 ![image](/img/7.PNG)
+=======
+<img src="./img/7.png" height=150 /> 
+>>>>>>> 84dc3b56110c6dd77e7ca760917e471cb17123d3
