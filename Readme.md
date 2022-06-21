@@ -33,7 +33,7 @@ pip install gunicorn   Flask==2.0.1 Jinja2==3.0.1 psycopg2 sklearn pandas  numpy
 
 ### step 4: login to heroku pstgredb using HeidiSQL  
 
-<img src="./img/1.png" height=100 />     
+![image](/img/1.PNG) 
 
 
 ```sql
@@ -45,11 +45,12 @@ mydb="d7ujfaokgqld81"
 ```
 ### step 5: import postgredb (in db/postgre.db)   
 
-<img src="./img/4.png" height=150 />    
+![image](/img/4.PNG)
+   
 
 ### step 6: setting db in app.py  
 
-<img src="./img/5.png" height=100 />    
+![image](/img/5.PNG)   
 
 ```sql
 myserver ="<fill-in-Heroku-Postgredb-DB-sever>"
@@ -60,8 +61,8 @@ mydb="<fill-in-Heroku-Postgredb-DB-db>"
 ```
 ### step 7: testing locally by running python app.py   
 
-<img src="./img/2.png" height=150 /> 
-<img src="./img/3.png" height=150 />    
+![image](/img/2.PNG) 
+![image](/img/3.PNG)   
 
 ### step 8: deploy to github (new private github repositoy)
 
@@ -69,7 +70,7 @@ delete .git and git remote add origin master github.com/xxxxx
 
 
 ### step 9: Heroku deploy from github
-<img src="../img/6.png" height=150 />  
+![image](/img/6.PNG)  
 
 ### step 10: Complete
 
@@ -83,10 +84,10 @@ https://aiot0529.herokuapp.com/
 
 
 ### Result :(remote random sensor points)
-<img src="./img/8.png" height=150 />  
+![image](/img/8.PNG)
 
 
 
 ### Result :(remote after AI prediction)   
 
-<img src="./img/7.png" height=150 /> 
+![image](/img/7.PNG)
