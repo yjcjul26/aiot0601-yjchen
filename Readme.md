@@ -93,4 +93,4 @@ https://aiot0529.herokuapp.com/
 
 ![image](/img/7.PNG)
 
-<img src="./img/7.png" height=150 /> 
+ 
