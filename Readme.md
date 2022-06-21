@@ -57,18 +57,22 @@ mydb="<fill-in-Heroku-Postgredb-DB-db>"
 ```
 ### step 7: testing locally by running python app.py
 <img src="./2.png" height=100 /> 
-<img src="./3.png" height=100 /> 
+<img src="./3.png" height=100 />    
+
 ### step 8: deploy to github (new private github repositoy)
 
 delete .git and git remote add origin master github.com/xxxxx
 
 
 ### step 9: Heroku deploy from github
+<img src="./6.png" height=100 />  
 
 ### step 10: Complete
+<img src="./7.png" height=100 />  
+
 
 Sample link 1:
-https://awinlab-aiot.herokuapp.com/
+https://aiot0601-yjchen.herokuapp.com/
 
 Sample link 2: 
 https://aiot0529.herokuapp.com/
